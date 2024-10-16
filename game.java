@@ -1,4 +1,4 @@
-#fdftgjg
+#lab1
 	package lab12;
 
 import java.util.Scanner; 
